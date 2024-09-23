@@ -1,1 +1,3 @@
-# go-pulsebus
+# pulsebus
+
+An event bus in go.
